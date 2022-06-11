@@ -1,6 +1,6 @@
 # 🖥️ NextJS Blank with Tailwind
 
-## Install
+## Installation
 
 ```shell
 gh repo clone emirhanwsd/nextjs-blank-with-tailwind
