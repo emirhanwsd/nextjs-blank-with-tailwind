@@ -1,1 +1,1 @@
-# nextjs-blank-with-tailwind
+# NextJS Blank with Tailwind
