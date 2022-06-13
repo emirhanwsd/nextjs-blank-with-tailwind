@@ -19,3 +19,7 @@
 html, body, #__next {
     height: 100%;
 }
+
+code {
+    @apply text-indigo-500 select-text
+}
